@@ -1,17 +1,22 @@
 .main {
-    background-image: url("./../image/df-min.jpg")
+    background-image: url("./../image/df-min.jpg");
+    background-repeat: no-repeat;
+    background-size: 60% 80%;
+    background-position: center;
+    background-color: gray;
+    position: relative;
+
 }
-.cadre {
-    height: 300px
-    width: 400px
+
+.centered-box {
+    width: 400px; /* Ajustez la largeur selon vos besoins */
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 2em;
+    height: 200px;
     background-color: #cc541d;
     text-align: center;
-    }
+    border-radius: 5px;
+}
 
-.element1 {
-    z-index: 1; /* Élévation de l'élément 1 */
-}
       
-.element2 {
-    z-index: 2; /* Élévation de l'élément 2 */
-}
