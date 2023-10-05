@@ -1,6 +1,8 @@
     .cadre {
-    border: 10px solid #d4d0d0;
-    padding: 1px;
-    background-color: #d4d0d0;
+    border-top: 10px solid #f0eded;
+    border-bottom: 10px solid #f0eded;
+    padding: 3px;
+    background-color: #f0eded;
+    margin-top: 0;
     margin-bottom: 10px; /* Espacement entre les cadres */
     }
