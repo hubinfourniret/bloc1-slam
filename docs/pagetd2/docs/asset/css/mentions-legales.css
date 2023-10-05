@@ -1,0 +1,22 @@
+.green {
+  font-size: 1.4em;
+  color: rgb(55, 143, 26);
+}
+.mon-texte-en-gras {
+  font-weight: bold;
+}
+body {
+  background-color: white;
+}
+.souligne-texte {
+  text-decoration: underline;
+}
+
+.red {
+  font-size: 1.4em;
+  color: red;
+  font-size: 16px;
+}
+body {
+  font-family: Arial ;
+}
