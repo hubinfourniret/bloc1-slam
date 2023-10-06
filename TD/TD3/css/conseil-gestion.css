@@ -1,0 +1,80 @@
+.main {
+    background-image: url("./../image/df-min.jpg");
+    background-repeat: no-repeat;
+    background-size: 60% 80%;
+    background-position: center;
+    background-color: gray;
+    position: relative;
+}
+body {
+    font-family: 'Rubik', sans-serif;
+}
+.centered-box {
+    padding-left: 1em;
+    padding-right: 1em;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 2em;
+    height: 200px;
+    background-color: #cc541d;
+    text-align: center;
+    border-radius: 10px;
+    color :#ffffff ;
+    box-shadow : 5px 5px 10px rgba(0, 0, 0, 0.5)
+}
+.police {
+    text-align: left;
+}
+.souligne {
+    text-decoration: underline;
+}
+  
+.box {
+    padding-top: 2em;
+    padding-left: 1em;
+    padding-right: 1em;
+    height: 200px;
+    background-color: #ffffff;
+    text-align: center;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 3em;
+    width: 300px;
+    box-shadow : 5px 5px 10px rgba(0, 0, 0, 0.5)
+}
+.mini-box1 {
+    margin-left: 10em;
+    margin-right: auto;
+}
+.mini-box2 {
+    margin-left: 35em;
+    margin-right: auto;
+}
+.mini-box3 {
+    margin-left: 60em;
+    margin-right: auto;
+}
+.mini-box4 {
+
+    margin-left: 85em;
+    margin-right: auto;
+}
+.votre-icon-class {
+    fill: #cc541d;
+    width: 50px;
+    height: 50px;
+    margin-right: 200px;
+}
+.bande-noire {
+    background-color: #000; /* Couleur de la bande noire (noir) */
+    height: 25px; /* Hauteur de la bande noire, ajustez selon vos besoins */
+    width: 100%; /* Largeur à 100% pour s'étendre sur toute la largeur de la page */
+    position: fixed; /* Fixe la bande noire en bas de la page */
+    bottom: 0; /* Position en bas de la page */
+    left: 0; /* Position à gauche de la page */
+    color:#ffffff;
+    text-align: center;
+    font-size: 8px;
+}
+  
